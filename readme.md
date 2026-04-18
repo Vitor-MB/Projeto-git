@@ -1,1 +1,3 @@
 INFORMAÇÕES IMPORTANTES
+
+mais algumas informações importantes
